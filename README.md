@@ -1,1 +1,1 @@
-# On-the-15-mini
+# On the 15 mini
