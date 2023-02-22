@@ -30,17 +30,20 @@
 |20|1uF|1|C3|
 |21|0.1uF|3|C4、C5、C6|
 |22|4.7uF|1|C7|
+|23|ゴム足|6||
 
 ### キット以外に必要なもの
-|部品名|数|
-|-|-|
-|Kailh LowProfile Switch（Choc V1）|60|
-|Choc V1用1Uキーキャップ|60|
-|Type-C USB ケーブル|1|
+|部品名|数||
+|-|-|-|
+|Kailh LowProfile Switch|60|[TALP KEYBOARD](https://talpkeyboard.net/?category_id=638b0e4618324e3c19f56b88)、[遊舎工房](https://shop.yushakobo.jp/collections/all-switches/Kailh-Choc-V1スイッチ)|
+|CFXプロファイル1Uキーキャップ|60|[TALP KEYBOARD](https://talpkeyboard.net/?category_id=638d75c18da73b0695940f48)、[遊舎工房](https://shop.yushakobo.jp/search?type=product&options%5Bprefix%5D=last&options%5Bunavailable_products%5D=last&q=CFX)|
+|Type-C USB ケーブル|1|[遊舎工房](https://shop.yushakobo.jp/products/usb_type_a_to_c_cable?_pos=3&_sid=d2e0de26b&_ss=r)、[秋月電子通商](https://akizukidenshi.com/catalog/g/gC-13563/)、100円均一など|
  
 ### オプション
-LED（SK6812MINI-E） 60個
- 
+|部品名|数||
+|-|-|-|
+|LED（SK6812MINI-E）|60|[遊舎工房](https://shop.yushakobo.jp/products/sk6812mini-e-10)、[秋月電子通商](https://akizukidenshi.com/catalog/g/gI-15478/)、[BOOTH](https://tarohayashi.booth.pm/items/4500749)|
+
 ### 必要な工具
 |工具名||
 |-|-|
