@@ -42,7 +42,7 @@
 ### オプション
 |部品名|数||
 |-|-|-|
-|LED（SK6812MINI-E）|60|[遊舎工房](https://shop.yushakobo.jp/products/sk6812mini-e-10)、[秋月電子通商](https://akizukidenshi.com/catalog/g/gI-15478/)、[BOOTH](https://tarohayashi.booth.pm/items/4500749)|
+|LED（SK6812MINI-E）|60|[遊舎工房](https://shop.yushakobo.jp/products/sk6812mini-e-10)、[秋月電子通商](https://akizukidenshi.com/catalog/g/gI-15478/)、[BOOTHオプション](https://tarohayashi.booth.pm/items/4500749)|
 
 ### 必要な工具
 |工具名||
