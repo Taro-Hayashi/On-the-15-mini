@@ -128,7 +128,7 @@ DESIGNタブのLoadでダウンロードしたJSONファイルを読み込ませ
 ![](img/VIA.jpeg)   
 CONFIGUREタブのAuthorize device+からOn the 15 miniを追加するとキーを置き換えることができるようになります。
 ![](img/VIA2.jpeg)   
-お好きな配列にしてお使いください。
+お好きな配列に変更してお使いください。
 
 ## その他
 
