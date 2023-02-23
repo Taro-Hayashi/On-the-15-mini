@@ -131,9 +131,9 @@ CONFIGUREタブのAuthorize device+からOn the 15 miniを追加してくださ�
 ## その他
 
 ファームウェアのフォルダ  
-- https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/onthe15mini
+- https://github.com/Taro-Hayashi/On-the-15-mini/tree/main/qmk_firmware/keyboards/tarohayashi/onthe15mini
 
-Duplex Matrixを使うため堕落猫さんのmatrix.cを流用、改変させていただきました。
+堕落猫さんのmatrix.cを流用、改変して使用いたしました。
 - URL https://github.com/darakuneko/keyboard
 - ライセンス https://github.com/darakuneko/keyboard/blob/main/LICENSE
   
