@@ -85,30 +85,31 @@ Flash completeの表示が出たら書き込み成功です。うまくいかな
 LEDは最初に取り付けます。はんだ付けする時はケーブルは外してください。  
 足の切り欠きと基板の「の方向を合わせてください。  
 ![](img/IMG_2683.jpeg) 
-全て取り付けたらUSBケーブルを接続して発光を確認しましょう。　　  
+全て取り付けたらUSBケーブルを接続して発光を確認しましょう。  
   
-ダイオードをはんだ付けします。   　
-![](img/IMG_2696.jpeg)
-全て取り付けたらピンセットでキースイッチのホールを導通させて1〜60が入力されるか確かめてください。　　
-![](img/IMG_2702.jpeg)
+ダイオードをはんだ付けします。  
+![](img/IMG_2696.jpeg)  
+全て取り付けたらピンセットでキースイッチのホールを導通させて1〜60が入力されるか確かめてください。  
+![](img/IMG_2702.jpeg)  
   
 破損防止のためケースは組み立てられて発送されています。ネジやスペーサーは無くさないように保存してください。  
-![](img/IMG_2983.jpeg)
-スイッチプレートの保護フィルムを剥がしたら、キースイッチでPCBと挟み込みはんだ付けします。　　
-![](img/IMG_2907.jpeg)
-4隅からはんだ付けすると位置がずれにくいです。全て取り付けたらもういちど動作を確認しましょう。    
+![](img/IMG_2983.jpeg)  
+スイッチプレートの保護フィルムを剥がしたら、キースイッチでPCBと挟み込みはんだ付けします。  
+![](img/IMG_2907.jpeg)  
+4隅からはんだ付けすると位置がずれにくいです。全て取り付けたらもういちど動作を確認しましょう。   
   
-PCBにスペーサー（細）（短）をナベねじ（短）で取り付けます。　　
-![](img/IMG_2911.jpeg)
+PCBにスペーサー（細）（短）をナベねじ（短）で取り付けます。  
+![](img/IMG_2911.jpeg)  
 
-トッププレートにスペーサー（太）（長）をバインドネジ（長）で取り付けます。　　
-![](img/IMG_2912.jpeg)
-ボトムプレートでミドルプレートを2枚挟み込み、超低頭ねじ（中）で止め、ゴム足を付けます。　　
-![](img/IMG_2918.jpeg)
+トッププレートにスペーサー（太）（長）をバインドネジ（長）で取り付けます。  　
+![](img/IMG_2912.jpeg)  
+ボトムプレートでミドルプレートを2枚挟み込み、超低頭ねじ（中）で止め、ゴム足を付けます。  
+![](img/IMG_2918.jpeg)  
 キーキャップを差し込んだら完成です。　　
-![](img/IMG_3318.jpeg)
-ファームウェアをこちらに書き換えてください。左上のキー（ESC）を押しながらUSBケーブルを接続するとリセットボタンを押した時と同じ状態になるため、裏返す必要がありません。  
-
+![](img/IMG_3318.jpeg)  
+  
+ファームウェアをこちらに書き換えてください。  
+左上のキー（ESC）を押しながらUSBケーブルを接続するとリセットボタンを押した時と同じ状態になるため、裏返す必要がありません。  
 - [tarohayashi_onthe15mini_via.hex](https://github.com/Taro-Hayashi/On-the-15-mini/releases/download/0.19.12dev/tarohayashi_onthe15mini_via.hex)
   
 書き換えに成功すると完成画像と同じ配列のキーボードとして使えるようになっています。　　
@@ -118,10 +119,10 @@ LEDは左上のキーを押しながら、その下のキーを押すと消灯�
 キー設定の変更はVIAのwebサイトかアプリケーションを使用します。　　
 - [Web版VIA（Google Chromeでアクセスしてください）](https://usevia.app/#/design)
 - [アプリ版VIA](https://github.com/the-via/releases/releases)
-
+  
 こちらのJSONファイルをダウンロードしてください。　　
 - (onthe15mini.json)[https://github.com/Taro-Hayashi/On-the-15-mini/releases/download/0.19.12dev/onthe15mini.json]
-
+  
 DESIGNタブのLoadでダウンロードしたJSONファイルを読み込ませるとキーの変更が出来るようになります。  
 （アプリ版ではまずSETTEINGSタブでShow Design tabをオンにしてください。） 　　
 ![](img/VIA_load.jpeg)   
@@ -130,6 +131,11 @@ CONFIGUREタブのAuthorize device+からOn the 15 miniを追加してくださ�
 ## その他
 
 ファームウェアのフォルダ  
-https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/onthe15mini
+- https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/onthe15mini
+
+Duplex Matrixを使うため堕落猫さんのmatrix.cを流用、改変させていただきました。
+- URL https://github.com/darakuneko/keyboard
+- ライセンス https://github.com/darakuneko/keyboard/blob/main/LICENSE
   
+販売サイト
 - BOOTH: https://tarohayashi.booth.pm/items/4500749
