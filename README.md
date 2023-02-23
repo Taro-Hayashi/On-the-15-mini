@@ -117,7 +117,7 @@ LEDは左上のキーを押しながら、その下のキーを押すと消灯�
 
 ## カスタマイズ
 キー設定の変更はVIAのwebサイトかアプリケーションを使用します。　　
-- [Web版VIA（Google Chromeでアクセスしてください）](https://usevia.app/#/design)
+- [Web版VIA（Google ChromeかMicrosoft Edgeでアクセスしてください）](https://usevia.app/#/design)
 - [アプリ版VIA](https://github.com/the-via/releases/releases)
   
 こちらのJSONファイルをダウンロードしてください。　　
