@@ -75,7 +75,7 @@ Type-Cレセプタクルとリセットスイッチをはんだ付けします�
 ファームウェアの書き込みにはQMK Toolboxを使います。　　
 - QMK Toolbox https://github.com/qmk/qmk_toolbox/releases
 
-QMK toolboxでダウンロードしたファイルを開いたら、MCUの欄をATmega3e2U2に変更してリセットスイッチを押し、出てきたFlashのボタンを押します。  
+QMK toolboxでダウンロードしたファイルを開いたら、MCUの欄をATmega32U2に変更してリセットスイッチを押し、出てきたFlashのボタンを押します。  
 ![](img/toolbox.jpeg) 
 Flash completeの表示が出たら書き込み成功です。うまくいかない場合は各部のはんだ付けを見直してください。　　
 ![](img/toolbox2.jpeg) 
