@@ -113,7 +113,7 @@ PCBにスペーサー（細）（短）をナベねじ（短）で取り付け�
 - [tarohayashi_onthe15mini_via.hex](https://github.com/Taro-Hayashi/On-the-15-mini/releases/download/0.19.12dev/tarohayashi_onthe15mini_via.hex)
   
 書き換えに成功すると完成画像と同じ配列のキーボードとして使えるようになっています。  
-LEDは左上のキーを押しながら、その下のキーを押すと消灯で横のキーで光り方を変更できます。  
+LEDは左上のキーを押しながら、その下のキーを押すと消灯で横のキーで光り方を変更できるように設定されています。  
 
 ## カスタマイズ
 キー設定の変更はVIAのwebサイトかアプリケーションを使用します。　　
