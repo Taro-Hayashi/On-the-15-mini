@@ -98,7 +98,8 @@ LEDは左上のキーを押しながら、その下のキーを押すと消灯�
 こちらのJSONファイルをダウンロードしてください。
 - json
 
-DESIGNタブのLoadでダウンロードしたJSONファイルを読み込ませるとキーの変更が出来るようになります（アプリ版ではまずShow Design tabをオンにしてください）。  
+DESIGNタブのLoadでダウンロードしたJSONファイルを読み込ませるとキーの変更が出来るようになります。
+（アプリ版ではまずSETTEINGSタブでShow Design tabをオンにしてください。） 
 ![](img/VIA_load.jpeg)  
 CONFIGUREタブのAuthorize device+からOn the 15 miniを追加してください。
 
