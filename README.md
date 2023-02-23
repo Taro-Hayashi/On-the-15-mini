@@ -118,7 +118,7 @@ LEDは左上のキーを押しながら、その下のキーを押すと消灯�
 - [アプリ版VIA](https://github.com/the-via/releases/releases)
 
 こちらのJSONファイルをダウンロードしてください。　　
-- json
+- (onthe15mini.json)[https://github.com/Taro-Hayashi/On-the-15-mini/releases/download/0.19.12dev/onthe15mini.json]
 
 DESIGNタブのLoadでダウンロードしたJSONファイルを読み込ませるとキーの変更が出来るようになります。  
 （アプリ版ではまずSETTEINGSタブでShow Design tabをオンにしてください。） 　　
