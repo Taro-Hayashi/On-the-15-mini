@@ -112,8 +112,8 @@ PCBにスペーサー（細）（短）をナベねじ（短）で取り付け�
 左上のキー（画像のESCアイコン）を押しながらUSBケーブルを接続するとリセットボタンを押した時と同じ状態になるため、裏返す必要がありません。  
 - [tarohayashi_onthe15mini_via.hex](https://github.com/Taro-Hayashi/On-the-15-mini/releases/download/0.19.12dev/tarohayashi_onthe15mini_via.hex)
   
-書き換えに成功すると完成画像と同じ配列のキーボードとして使えるようになっています。　　
-LEDは左上のキーを押しながら、その下のキーを押すと消灯で横のキーで光り方を変更できます。　　
+書き換えに成功すると完成画像と同じ配列のキーボードとして使えるようになっています。  
+LEDは左上のキーを押しながら、その下のキーを押すと消灯で横のキーで光り方を変更できます。  
 
 ## カスタマイズ
 キー設定の変更はVIAのwebサイトかアプリケーションを使用します。　　
@@ -125,8 +125,10 @@ LEDは左上のキーを押しながら、その下のキーを押すと消灯�
   
 DESIGNタブのLoadでダウンロードしたJSONファイルを読み込ませるとキーの変更が出来るようになります。  
 （アプリ版ではまずSETTEINGSタブでShow Design tabをオンにしてください。） 　　
-![](img/VIA_load.jpeg)   
-CONFIGUREタブのAuthorize device+からOn the 15 miniを追加してください。　　
+![](img/VIA.jpeg)   
+CONFIGUREタブのAuthorize device+からOn the 15 miniを追加するとキーを置き換えることができるようになります。
+![](img/VIA2.jpeg)   
+お好きな配列にしてお使いください。
 
 ## その他
 
