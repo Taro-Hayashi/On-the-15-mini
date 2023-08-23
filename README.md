@@ -70,7 +70,7 @@ ATmega32u2をはんだ付けします。チップの○と基板上の○の方�
 Type-Cレセプタクルとリセットスイッチをはんだ付けします。  
 ![](img/IMG_2674.jpeg) 
 これでPro Microと同じ機能が実装できました。テスト用ファームウェアをダウンロードして書き込めることを確認しましょう。　　
-- [tarohayashi_onthe15mini_default.hex](https://github.com/Taro-Hayashi/On-the-15-mini/releases/download/0.19.12dev/tarohayashi_onthe15mini_default.hex)
+- [tarohayashi_onthe15mini_default.hex](https://github.com/Taro-Hayashi/On-the-15-mini/releases/download/0.21.6/tarohayashi_onthe15mini_default.hex)
 
 ファームウェアの書き込みにはQMK Toolboxを使います。　　
 - QMK Toolbox https://github.com/qmk/qmk_toolbox/releases
@@ -113,7 +113,7 @@ PCBにスペーサー（細）（短）をナベねじ（短）で取り付け�
   
 ファームウェアをこちらに書き換えてください。  
 左上のキー（画像のESCアイコン）を押しながらUSBケーブルを接続するとリセットボタンを押した時と同じ状態になるため、裏返す必要がありません。  
-- [tarohayashi_onthe15mini_via.hex](https://github.com/Taro-Hayashi/On-the-15-mini/releases/download/0.19.12dev/tarohayashi_onthe15mini_via.hex)
+- [tarohayashi_onthe15mini_via.hex](https://github.com/Taro-Hayashi/On-the-15-mini/releases/download/0.21.6/tarohayashi_onthe15mini_via.hex)
   
 書き換えに成功すると完成画像と同じ配列のキーボードとして使えるようになっています。  
 LEDは左上のキーを押しながら、その下のキーを押すと消灯で横のキーで光り方を変更できるように設定されています。  
@@ -124,7 +124,7 @@ LEDは左上のキーを押しながら、その下のキーを押すと消灯�
 - [アプリ版VIA](https://github.com/the-via/releases/releases)
   
 こちらのJSONファイルをダウンロードしてください。　　
-- [onthe15mini.json](https://github.com/Taro-Hayashi/On-the-15-mini/releases/download/0.19.12dev/onthe15mini.json)
+- [onthe15mini.json](https://github.com/Taro-Hayashi/On-the-15-mini/releases/download/0.21.6/onthe15mini.json)
   
 DESIGNタブのLoadでダウンロードしたJSONファイルを読み込ませるとキーの変更が出来るようになります。  
 （アプリ版ではまずSETTEINGSタブでShow Design tabをオンにしてください。） 　　
