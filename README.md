@@ -136,7 +136,7 @@ CONFIGUREタブのAuthorize device+からOn the 15 miniを追加するとキー�
 ## その他
 
 ファームウェアのフォルダ  
-- https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/onthe15mini
+- https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/archive/onthe15mini
 
 堕落猫さんのmatrix.cを流用、改変して使用いたしました。
 - URL https://github.com/darakuneko/keyboard
